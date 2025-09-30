@@ -6,7 +6,7 @@ I'm a passionate Computer Science student from Kerala, India, with a strong inte
 
 ### 🔧 Skills & Technologies
 
--   **Languages:** C, Python, c
+-   **Languages:** C, Python
 -   **Tools & Platforms:** Git, GitHub, Visual Studio Code, Excel,AI promt
 -   **Interests:** Algorithms, Cloud Computing (AWS), Network Security, Cyber security,clud Security
 
