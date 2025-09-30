@@ -27,7 +27,7 @@ Here are a few projects I've worked on:
 
 ### 📫 Get In Touch
 
--   **LinkedIn:** 
+-   **LinkedIn:** www.linkedin.com/in/athul-7821ab2b8
 -   **Portfolio:** 
 -   **Email:** athulkrishnalalu2006@gmail.com
 
