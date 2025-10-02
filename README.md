@@ -1,22 +1,29 @@
 # Hi there, I'm Athul! 👋
 
-I'm a passionate Computer Science student from Kerala, India, with a strong interest in cloud engineering,cloud security,software development, data structures, and cybersecurity. I enjoy building efficient and scalable applications and am always looking for opportunities to learn and grow.
+I'm a passionate Computer Science student from Kerala, India, with a strong interest in cloud engineering,cloud & cyber security,software development, data structures. I enjoy building efficient and scalable applications and am always looking for opportunities to learn and grow.
 
 ---
 
 ### 🔧 Skills & Technologies
 
 -   **Languages:** C, Python
--   **Tools & Platforms:** Git, GitHub, Visual Studio Code, Excel,AI promt
--   **Interests:** Algorithms, Cloud Computing (AWS), Network Security, Cyber security,clud Security
+-   **Tools & Platforms:** Git, GitHub, Visual Studio Code, Excel,Prompt Engineering
+-   **Interests:** Algorithms, Cloud Computing (AWS), Network Security, Cyber security,DSA
 
 ---
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
 
 ### 💻 Projects
 
-Here are a few projects I've worked on:
+| Project Name | Description | Link |
 | :--- | :--- | :--- |
-| **Address Book in C** | A command-line address book built with C, using dynamic lists for contact management. Features include adding, Editing, and deleting entries. | [View Repository](https://github.com/SpikIKid/address-book-project) |
+| **Address Book in C** | A command-line address book built with C, using dynamic lists for contact management. | [View Repository](https://github.com/SpikIKid/DYNAMIC-ADDRESS-BOOK) |
+
 
 ### 📊 My GitHub Stats
 
