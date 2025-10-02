@@ -1,6 +1,6 @@
 # Hi there, I'm Athul! 👋
 
-I'm a passionate Computer Science student from Kerala, India, with a strong interest in software development, data structures, and cybersecurity. I enjoy building efficient and scalable applications and am always looking for opportunities to learn and grow.
+I'm a passionate Computer Science student from Kerala, India, with a strong interest in cloud engineering,cloud security,software development, data structures, and cybersecurity. I enjoy building efficient and scalable applications and am always looking for opportunities to learn and grow.
 
 ---
 
