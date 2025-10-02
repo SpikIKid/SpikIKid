@@ -16,7 +16,7 @@ I'm a passionate Computer Science student from Kerala, India, with a strong inte
 
 Here are a few projects I've worked on:
 | :--- | :--- | :--- |
----
+| **Address Book in C** | A command-line address book built with C, using dynamic lists for contact management. Features include adding, Editing, and deleting entries. | [View Repository](https://github.com/SpikIKid/address-book-project) |
 
 ### 📊 My GitHub Stats
 
@@ -28,6 +28,5 @@ Here are a few projects I've worked on:
 ### 📫 Get In Touch
 
 -   **LinkedIn:** www.linkedin.com/in/athul-7821ab2b8
--   **Portfolio:** 
 -   **Email:** athulkrishnalalu2006@gmail.com
 
