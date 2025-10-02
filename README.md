@@ -8,12 +8,9 @@ I'm a passionate Computer Science student from Kerala, India, with a strong inte
 
 -   **Languages:** C, Python
 -   **Tools & Platforms:** Git, GitHub, Visual Studio Code, Excel,Prompt Engineering
--   **Interests:** Algorithms, Cloud Computing (AWS), Network Security, Cyber security,DSA
+-   **Interests:** Algorithms, Cloud Computing (AWS), Network Security
 
 ---
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
