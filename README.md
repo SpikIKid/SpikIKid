@@ -34,6 +34,7 @@ I'm a passionate Computer Science student from Kerala, India, with a strong inte
 
 ### 📫 Get In Touch
 
--   **LinkedIn:** www.linkedin.com/in/athul-7821ab2b8
--   **Email:** athulkrishnalalu2006@gmail.com
+- **LinkedIn:** [athul-7821ab2b8](https://www.linkedin.com/in/athul-7821ab2b8)
+- **Email:** athulkrishnalalu2006@gmail.com
+
 
