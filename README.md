@@ -35,7 +35,5 @@ I'm a passionate Computer Science student from Kerala, India, with a strong inte
 <p align="left">
   <a href="https://linkedin.com/in/athul-7821ab2b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="athul-7821ab2b8" height="30" width="40" /></a>
 </p>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=plastic&logo=gmail&logoColor=white)](mailto:athulkrishnalalu2006@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athulkrishnalalu2006@gmail.com)
-
+[![Gmail Badge](https://img.shields.io/badge/-athulkrishnalalu2006@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:athulkrishnalalu2006@gmail.com)](mailto:athulkrishnalalu2006@gmail.com)
 
