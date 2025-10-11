@@ -12,6 +12,11 @@ I'm a passionate Computer Science student from Kerala, India, with a strong inte
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white), Visual Studio Code, Excel,Prompt Engineering
 -   **Interests:** Algorithms, Cloud Computing (AWS), Network Security,Game development.
 
+-   [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![AI Prompt Engineering](https://img.shields.io/badge/AI%20Prompt%20Engineering-FF6F61?style=for-the-badge&logo=openai&logoColor=white)](https://en.wikipedia.org/wiki/Prompt_engineering)
+
+
 ### 💻 Projects
 
 | Project Name | Description | Link |
@@ -30,10 +35,8 @@ I'm a passionate Computer Science student from Kerala, India, with a strong inte
 
 ### 📫 Get In Touch
 
-- **LinkedIn:** [athul-7821ab2b8](https://www.linkedin.com/in/athul-7821ab2b8)
 - **Email:** athulkrishnalalu2006@gmail.com
 <p align="left">
   <a href="https://linkedin.com/in/athul-7821ab2b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="athul-7821ab2b8" height="30" width="40" /></a>
 </p>
-[![Gmail Badge](https://img.shields.io/badge/-athulkrishnalalu2006@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:athulkrishnalalu2006@gmail.com)](mailto:athulkrishnalalu2006@gmail.com)
 
