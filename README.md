@@ -12,9 +12,7 @@ I'm a passionate Computer Science student from Kerala, India, with a strong inte
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white), Visual Studio Code, Excel,Prompt Engineering
 -   **Interests:** Algorithms, Cloud Computing (AWS), Network Security,Game development.
 
--   [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![AI Prompt Engineering](https://img.shields.io/badge/AI%20Prompt%20Engineering-FF6F61?style=for-the-badge&logo=openai&logoColor=white)](https://en.wikipedia.org/wiki/Prompt_engineering)
+[![VSCode](https://img.shields.io/badge/-%20-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 
 ### 💻 Projects
