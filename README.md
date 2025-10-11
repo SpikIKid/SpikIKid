@@ -6,13 +6,10 @@ I'm a passionate Computer Science student from Kerala, India, with a strong inte
 
 ### 🔧 Skills & Technologies
 
--   **Languages:** ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
--   **Tools & Platforms:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white), Visual Studio Code, Excel,Prompt Engineering
--   **Interests:** Algorithms, Cloud Computing (AWS), Network Security,Game development.
+-[![My Skills](https://skillicons.dev/icons?i=c,git,python,openai)](https://skillicons.dev)
 
-[![VSCode](https://img.shields.io/badge/-%20-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+-   **Interests:** Algorithms, Cloud Computing (AWS), Network Security,Game development.
 
 
 ### 💻 Projects
