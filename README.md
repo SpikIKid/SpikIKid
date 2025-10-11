@@ -6,15 +6,15 @@ I'm a passionate Computer Science student from Kerala, India, with a strong inte
 
 ### 🔧 Skills & Technologies
 
--   **Languages:** C, Python
--   **Tools & Platforms:** Git, GitHub, Visual Studio Code, Excel,Prompt Engineering
+-   **Languages:** ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+-   **Tools & Platforms:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white), Visual Studio Code, Excel,Prompt Engineering
 -   **Interests:** Algorithms, Cloud Computing (AWS), Network Security
 
 ---
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
 
 
 
