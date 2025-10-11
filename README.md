@@ -10,13 +10,7 @@ I'm a passionate Computer Science student from Kerala, India, with a strong inte
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 -   **Tools & Platforms:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white), Visual Studio Code, Excel,Prompt Engineering
--   **Interests:** Algorithms, Cloud Computing (AWS), Network Security
-
----
-
-
-
-
+-   **Interests:** Algorithms, Cloud Computing (AWS), Network Security,Game development.
 
 ### 💻 Projects
 
@@ -31,10 +25,15 @@ I'm a passionate Computer Science student from Kerala, India, with a strong inte
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpikIKid&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SpikIKid&theme=radical)](https://git.io/streak-stats)
+
 
 ### 📫 Get In Touch
 
 - **LinkedIn:** [athul-7821ab2b8](https://www.linkedin.com/in/athul-7821ab2b8)
 - **Email:** athulkrishnalalu2006@gmail.com
+<p align="left">
+  <a href="https://linkedin.com/in/athul-7821ab2b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="athul-7821ab2b8" height="30" width="40" /></a>
+</p>
 
 
