@@ -9,7 +9,7 @@ I'm a passionate Computer Science student from Kerala, India, with a strong inte
 -[![My Skills](https://skillicons.dev/icons?i=c,git,python,openai)](https://skillicons.dev)
 
 
--   **Interests:** Algorithms, Cloud Computing (AWS), Network Security,Game development.
+-   **Interests:** Cloud Computing (AWS), Network Security,Game development,puzzle solving.
 
 
 ### 💻 Projects
