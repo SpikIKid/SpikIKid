@@ -1,6 +1,6 @@
 # Hi there, I'm Athul! 👋
 
-I'm a Computer Science student from Kerala, India, passionate about cloud and cybersecurity, and data structures. I love building efficient, scalable, and secure applications and I enjoy creating systems that protect and strengthen digital environments. Always eager to learn and grow.
+I'm a Computer Science student from Kerala, India, passionate about software development and cybersecurity, and data structures. I love building efficient, scalable, and secure applications and I enjoy creating systems that protect and strengthen digital environments. Always eager to learn and grow.
 ---
 
 ### 🔧 Skills & Technologies
@@ -8,7 +8,7 @@ I'm a Computer Science student from Kerala, India, passionate about cloud and cy
 -[![My Skills](https://skillicons.dev/icons?i=c,git,python,openai)](https://skillicons.dev)
 
 
--   **Interests:** Cloud computing (GCP),Cloud security, Network Security,application development,puzzle solving.
+-   **Interests:** Cyber Security, Network Security,Software development,Data analytics.
 
 
 ### 💻 Projects
